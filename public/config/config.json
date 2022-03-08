@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x666fbA386860eC0C5eDa2B90AdD26AF1E852EF4e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x666fba386860ec0c5eda2b90add26af1e852ef4e",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "AlienBoysNFT",
+  "SYMBOL": "ABNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/alienboysnft",
+  "SHOW_BACKGROUND": true
+}
